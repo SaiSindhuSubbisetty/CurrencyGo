@@ -186,6 +186,3 @@ For production, secure the gRPC communication by enabling **TLS** or using other
 
 This project is licensed under the MIT License.
 
----
-
-This updated README reflects the integration with the Java **Wallet App** and outlines how the Currency Converter service will interact with it. Let me know if you need further adjustments!
